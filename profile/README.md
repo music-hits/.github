@@ -13,4 +13,4 @@ Otherwise next check next main repositories:
 - https://github.com/music-hits/music-hits-api
 - https://github.com/music-hits/music-hits-frontend
 
-_PS: Do not forget to checkout to corresponding branch - main is currently empty and waiting for PR to be closed._
+_PS: Do not forget to checkout to corresponding branch - main/s are currently empty and are waiting for PR(s) to be closed._
