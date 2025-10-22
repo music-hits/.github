@@ -1,6 +1,6 @@
 ## NestJS and Angular application for music hits.
 
-Hey SAP Leanix!
+Hey Zenith team!
 
 To start please check next PR requests:
 
@@ -8,7 +8,7 @@ To start please check next PR requests:
 - https://github.com/music-hits/music-hits-frontend/pull/2
 
 
-Otherwise next check next main repositories:
+Otherwise check next main repositories:
 
 - https://github.com/music-hits/music-hits-api
 - https://github.com/music-hits/music-hits-frontend
