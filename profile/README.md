@@ -16,7 +16,7 @@ The application allows users to:
 
 All requests include a simple user tracking header `Authorization: user=123`. This can be easily upgraded to a more secure authentication method like JWT or OAuth2.
 
-## technology stack
+## Technology stack
 
 | Layer         | Technologies & Tools                                     |
 | ------------- | -------------------------------------------------------- |
