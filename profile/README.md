@@ -2,7 +2,7 @@
 
 This project is a full-stack application for managing music hits, built as a technical assessment to demonstrate backend and frontend development skills. It provides a RESTful API with a modern frontend interface to explore, search, and display music data from a CSV import.
 
-The service persists data in a relational database and allows tracking of user requests.
+![Music Hits Demo](demo/music-hits.gif)
 
 ## Features
 
@@ -37,8 +37,8 @@ This repository contains two standalone apps (API and Frontend). Frontend was bu
 
 For step-by-step instructions, setup, testing, and deep dives into the project structure, check the respective READMEs:
 
-- API [README.md](https://github.com/music-hits/music-hits-api/blob/main/README.md) - backend architecture, environment setup, migrations, and testing
-- FRONTEND [README.md](https://github.com/music-hits/music-hits-frontend/blob/main/README.md) - frontend architecture, project sketches, environment setup, and e2e testing
+- [API Readme](https://github.com/music-hits/music-hits-api/blob/main/README.md) - backend architecture, environment setup, migrations, and testing
+- [Frontend Readme](https://github.com/music-hits/music-hits-frontend/blob/main/README.md) - frontend architecture, project sketches, environment setup, and e2e testing
 
 ## Author
 
