@@ -4,18 +4,6 @@ This project is a full-stack application for managing music hits, built as a tec
 
 ![Music Hits Demo](demo/music-hits.gif)
 
-## Features
-
-The application allows users to:
-
-- View Top 10 Artists – see the most popular artists in the dataset.
-- View Top 10 Tracks – see the most popular tracks in the dataset.
-- List All Artists – browse all available artists.
-- Search for Artists – search by artist name with partial matches.
-- View Artist Details – click on an artist to see their detailed information.
-
-All requests include a simple user tracking header `Authorization: user=123`. This can be easily upgraded to a more secure authentication method like JWT or OAuth2.
-
 ## Technology stack
 
 | Layer         | Technologies & Tools                                     |
@@ -39,6 +27,18 @@ For step-by-step instructions, setup, testing, and deep dives into the project s
 
 - [API Readme](https://github.com/music-hits/music-hits-api/blob/main/README.md) - backend architecture, environment setup, migrations, and testing
 - [Frontend Readme](https://github.com/music-hits/music-hits-frontend/blob/main/README.md) - frontend architecture, project sketches, environment setup, and e2e testing
+
+## Features
+
+The application allows users to:
+
+- View Top 10 Artists – see the most popular artists in the dataset.
+- View Top 10 Tracks – see the most popular tracks in the dataset.
+- List All Artists – browse all available artists.
+- Search for Artists – search by artist name with partial matches.
+- View Artist Details – click on an artist to see their detailed information.
+
+All requests include a simple user tracking header `Authorization: user=123`. This can be easily upgraded to a more secure authentication method like JWT or OAuth2.
 
 ## Author
 
